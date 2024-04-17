@@ -1,4 +1,4 @@
-# Paper Representation
+# Paper Implementation
 
 This paper is based on the work described in the IEEE paper titled ["Genotype-Guided Radiomics Signatures for Recurrence Prediction of Non-Small Cell Lung Cancer"](https://ieeexplore.ieee.org/document/9450726)
 
